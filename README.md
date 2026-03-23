@@ -1070,6 +1070,7 @@ Update Time, five active automations, webhooks.
 
 ## Web Hosting
 
+  * [PageDrop](https://pagedrop.dev) — Free instant HTML hosting API. Host HTML pages via a simple API call. No authentication required. Free forever.
   * [Alwaysdata](https://www.alwaysdata.com/) — 1 GB free web hosting with support for MySQL, PostgreSQL, RabbitMQ, .NET, Deno, Elixir, Go, Java, Lua, Node.js, PHP, Python, Ruby, Rust. Custom web servers, access via FTP, WebDAV and SSH. Mailbox, mailing list and app installer included. No custom domain on free plan.
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
   * [Bubble](https://bubble.io/) — Visual programming to build web and mobile apps without code, free with Bubble branding.
