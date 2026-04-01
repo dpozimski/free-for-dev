@@ -299,6 +299,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [KillBait API](https://killbait.com/api/doc) - KillBait API allows users to submit URLs for content evaluation, detecting potential clickbait and categorizing articles. The API is designed for moderate publishing frequency, with limits of 1 submission per hour and 10 per day. Media partners can request higher limits.
   * [Kreya](https://kreya.app) - Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
   * [LinkMeta](https://linkmeta.dev) - URL metadata extraction API that returns titles, descriptions, Open Graph tags, and favicons from any URL. Completely free with no API key required.
+  * [LinkShrink](https://linkshrink.dev) - URL shortener API that creates short links programmatically. Free to use with no API key or authentication required.
   * [LoginLlama](https://loginllama.app) - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.
   * [Market Data API](https://www.marketdata.app) - Provides real-time and historical financial data for stocks, options, mutual funds, and more. The Free Forever API tier allows for 100 daily API requests at no charge.
   * [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
@@ -314,7 +315,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [OCR.Space](https://ocr.space/) - An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.
   * [OGForge](https://ogforge.dev) - Open Graph image generation API for creating social media preview images programmatically. Free to use with no authentication required.
   * [OpenAPI3 Designer](https://openapidesigner.com/) - Visually create Open API 3 definitions for free.
-  * [PageShot](https://pageshot.site) - Screenshot API for capturing full-page, viewport, or element screenshots of any webpage. Free with no API key needed.
+  * [PageShot](https://pageshot.dev) - Screenshot API for capturing full-page, viewport, or element screenshots of any webpage. Free with no API key needed.
   * [Parseur](https://parseur.com) - 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
